@@ -1,8 +1,14 @@
-# react-native-crypto
+# react-native-crypto (forked)
 
 Note: this module is a clone of [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify), with randombytes replaced.
 
 A port of node's `crypto` module to React Native.
+
+## changes made in fork
+
+- renamed `index.js` to `index.mjs`
+- updated `index.js` to no longer use `import`
+- added `main` and `module` fields to package.json
 
 ## install
 
