@@ -2,6 +2,8 @@
   "author": "Dominic Tarr <dominic.tarr@gmail.com> (dominictarr.com)",
   "name": "react-native-crypto",
   "description": "implementation of crypto for React Native",
+  "main": "index.js",
+  "module": "index.mjs",
   "version": "2.2.0",
   "homepage": "https://github.com/tradle/react-native-crypto",
   "repository": {
